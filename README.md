@@ -13,7 +13,7 @@
 
 > ## Table Layout
 > It is a basic Layout built upon table structure, which is containing information related to Corona-Virus
-> > ### [Watch Live](https://wahidhoquee.github.io/webtech-course/form)
+> > ### [Watch Live](https://wahidhoquee.github.io/webtech-course/table)
 >
-> > ### [Source Code](https://github.com/WahidHoquee/webtech-course/tree/master/form)
+> > ### [Source Code](https://github.com/WahidHoquee/webtech-course/tree/master/table)
 
