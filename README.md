@@ -1,4 +1,4 @@
-# Click on the following links to view the relative Project live
+# Assignment/Project List
 ---
 
 
