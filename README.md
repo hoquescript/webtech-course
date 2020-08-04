@@ -14,9 +14,10 @@
 ```
 ---
 
-# webtech-course
-This is an academic course named Web Technology and Information. All the assignments will be maintained in this repository
-## Welcome to GitHub Pages
+# Introduction
+All the Assignment List is displayed here with the source code and live preview link.
+
+## Form Layout
 
 You can use the [editor on GitHub](https://github.com/WahidHoquee/webtech-course/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -41,7 +42,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Watch Live](https://wahidhoquee.github.io/webtech-course/form)
+[Source Code](https://github.com/WahidHoquee/webtech-course/tree/master/form)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
