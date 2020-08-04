@@ -1,6 +1,6 @@
 # Click on the following links to view the relative project live. :)
 
-> ## [Form Layout](https://wahidhoquee.github.io/webtech-course/form)
+> ## Form Layout
 > It is a simple login form of a ERP Management Software containing two text-field and a radio button.
 > > ### [Watch Live](https://wahidhoquee.github.io/webtech-course/form)
 >
@@ -9,7 +9,7 @@
 ***
 ***
 
-> ## [Table Layout](https://wahidhoquee.github.io/webtech-course/table)
+> ## Table Layout
 > It is a basic Layout built upon table structure, which is containing information related to Corona-Virus
 > > ### [Watch Live](https://wahidhoquee.github.io/webtech-course/form)
 >
