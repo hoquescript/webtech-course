@@ -2,6 +2,15 @@
 ---
 
 
+> ## Background Layout
+> It is a sample video background project, With an interesting quotes
+> > ### [Watch Live](https://wahidhoquee.github.io/webtech-course/background)
+>
+> > ### [Source Code](https://github.com/WahidHoquee/webtech-course/tree/master/background)
+
+***
+***
+
 > ## Form Layout
 > It is a simple login form of a ERP Management Software containing two text-field and a radio button.
 > > ### [Watch Live](https://wahidhoquee.github.io/webtech-course/form)
