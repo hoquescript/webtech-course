@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suddent Test - Table</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        * {
+            margin: 0;
+        }
+
+        body {
+            height: 100vh;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background-color: #5f27cd;
+        }
+
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 60%;
+        }
+
+        h1 {
+            color: cornsilk;
+            font-size: 60px;
+            margin-bottom: 50px;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        td,
+        th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 15px 10px;
+            margin-left: 5px;
+            width: 25%;
+        }
+
+        tr:nth-child(even) {
+            background-color: #eee;
+        }
+
+        tr:nth-child(odd) {
+            background-color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Table - A Complex Table</h1>
+    <table>
+        <tr>
+            <td colspan="3"><b>Invoice #12345678</b> </td>
+            <td colspan="1"><b>14 January 2025</b> </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <b>Pay to:</b> <br>
+                Acme Billing Code <br>
+                123 Main St. <br>
+                Cityville, NA 12345 <br>
+            </td>
+            <td colspan="2">
+                <b>Customer:</b> <br>
+                John Smith <br>
+                321 Willow Way <br>
+                Southeast Northwstersheire,Ma 54321 <br>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="1"><b>Name/Description</b> </td>
+            <td colspan="1"><b>QTY.</b></td>
+            <td colspan="1"><b>@</b></td>
+            <td colspan="1"><b>Cost</b></td>
+        </tr>
+        <tr>
+            <td colspan="1">Paperclips</td>
+            <td colspan="1">1000</td>
+            <td colspan="1">0.1</td>
+            <td colspan="1">10.00</td>
+        </tr>
+        <tr>
+            <td colspan="1">Staples (box)</td>
+            <td colspan="1">100</td>
+            <td colspan="1">1.00</td>
+            <td colspan="1">100.00</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Subtotal</b> </td>
+            <td colspan="1">110.00</td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Tax</b> </td>
+            <td colspan="1">8%</td>
+            <td colspan="1">8.80</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Grand Total</b> </td>
+            <td colspan="1">$118.80</td>
+        </tr>
+    </table>
+</body>
+
+</html>
